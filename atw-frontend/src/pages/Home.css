@@ -1,0 +1,25 @@
+
+.home-title {
+  font-size: 3rem;
+  margin-bottom: 20px;
+  text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+}
+
+.home-description {
+  font-size: 1.5rem;
+  margin-bottom: 40px;
+}
+
+.explore-hotels-btn {
+  padding: 10px 20px;
+  background-color: #007BFF; /* Blue button */
+  color: white;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+.explore-hotels-btn:hover {
+  background-color: #0056b3; /* Darker blue on hover */
+}

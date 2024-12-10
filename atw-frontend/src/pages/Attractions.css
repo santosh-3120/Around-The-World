@@ -1,0 +1,20 @@
+
+  
+  .attractions-content {
+    text-align: center;
+    color: white;
+  }
+  
+  .discover-attractions-btn {
+    padding: 10px 20px;
+    background-color: #28A745;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  .discover-attractions-btn:hover {
+    background-color: #218838;
+  }
+  

@@ -1,0 +1,50 @@
+/* HotelList.css */
+.hotel-list-container {
+    padding: 50px;
+    background-color: #f7f7f7;
+  }
+  
+  .hotel-item {
+    margin: 20px 0;
+    padding: 20px;
+    background-color: white;
+    border: 1px solid #e0e0e0;
+    border-radius: 8px;
+    display: flex;
+    justify-content: space-between;
+  }
+  
+  .hotel-info {
+    display: flex;
+    flex-direction: column;
+  }
+  
+  .hotel-name {
+    font-size: 1.5rem;
+    font-weight: bold;
+  }
+  
+  .hotel-price {
+    font-size: 1.2rem;
+    color: #007bff;
+  }
+  
+  .hotel-amenities {
+    margin-top: 10px;
+    font-size: 0.9rem;
+    color: #666;
+  }
+  
+  .view-details-btn {
+    padding: 10px 20px;
+    background-color: #007BFF; /* Blue button */
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  .view-details-btn:hover {
+    background-color: #0056b3; /* Darker blue on hover */
+  }
+  
